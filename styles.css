@@ -88,12 +88,18 @@ body {
 
 @media (max-width: 900px) {
   #by {
-    margin-top: -70px;
+    margin-top: -90px;
   }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 700px) {
   #by {
-    margin-top: -70px;
+    margin-top: -110px;
+  }
+}
+
+@media (max-width: 700px) {
+  #by {
+    margin-top: -110px;
   }
 }
