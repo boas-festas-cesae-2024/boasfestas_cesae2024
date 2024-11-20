@@ -41,7 +41,7 @@ body {
 }
 
 #by {
-  margin-top: -30px;
+  margin-top: -40px;
   color: #0db8ee;
   display: block;
   width: 100%;
@@ -94,12 +94,6 @@ body {
 
 @media (max-width: 700px) {
   #by {
-    margin-top: -110px;
-  }
-}
-
-@media (max-width: 700px) {
-  #by {
-    margin-top: -110px;
+    margin-top: -130px;
   }
 }
